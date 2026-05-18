@@ -15,7 +15,7 @@
 ### Tim Project
 - **Backend Team** (3 orang)
   - Muhammad Fajar Nurjaman
-  - Nabilah asana Alecia
+  - Nabilah Asana Alecia
   - Fatin Asyifa Nurrizky Jenputri
 
 - **Frontend Team** (3 orang)
