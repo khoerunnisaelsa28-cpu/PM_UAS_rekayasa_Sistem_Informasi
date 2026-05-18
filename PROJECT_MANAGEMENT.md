@@ -34,7 +34,8 @@
 **Status**: Current Week
 - [ ] Kickoff meeting
 - [ ] Review & pemahaman dokumen SRS
-- [ ] Perencanaan
+- [ ] Perencanaan Sistem dan Tools
+- [ ] Timeline
 - [ ] Pembagian peran final
 
 **Related Issue**: #1
